@@ -4295,3 +4295,8 @@ warsaw10155.discord.gg
 warsaw10156.discord.gg
 warsaw10157.discord.gg
 warsaw10158.discord.gg
+discord.storage.googleapis.com
+discord-devops.storage.googleapis.com
+96discord-attachments-uploads-prd.storage.googleapis.com
+discord-attachments-uploads-prd.storage.googleapis.com
+discord-staging.storage.googleapis.com
