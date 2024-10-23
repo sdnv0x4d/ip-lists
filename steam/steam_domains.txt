@@ -18,6 +18,7 @@ cache3-fra2.steamcontent.com
 cache5-fra1.steamcontent.com
 cache6-fra1.steamcontent.com
 cache6-fra2.steamcontent.com
+cdn.akamai.steamstatic.com
 cdn.fastly.steamstatic.com
 cdn.steamstatic.com
 clan.steamstatic.com
@@ -47,6 +48,8 @@ community.akamai.steamstatic.com
 community.cloudflare.steamstatic.com
 community.steamstatic.com
 crash.steampowered.com
+eu.http.ipv6check.akadns.net
+eu.udp.ipv6check.akadns.net
 ext1-eze1.steamserver.net
 ext1-gru1.steamserver.net
 ext1-lim1.steamserver.net
@@ -66,6 +69,9 @@ ext2-waw1.steamserver.net
 ext3-sto1.steamserver.net
 ext3-sto2.steamserver.net
 ext4-tyo3.steamserver.net
+http.ipv6check.akadns.net
+ipv6check-http.steamserver.net
+ipv6check-udp.steamserver.net
 login.steampowered.com
 p2p-hkg1.discovery.steamserver.net
 r5.sn-x2pm-f5fs.gvt1.com
@@ -83,3 +89,4 @@ store.steampowered.com
 store.steamstatic.com
 test.steampowered.com
 t.sni.global.fastly.net
+udp.ipv6check.akadns.net
